@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Media</string>
+    <string name="we_will_send_you_an_one_time_otp_on_this_given_n_mobile_number">we will send you an one time otp on this given\n mobile number</string>
+    <string name="enter_mobile_number">Enter Mobile Number</string>
+    <string name="mobile_otp_verification">Mobile OTP Verification</string>
+    <string name="_91">+91 </string>
+    <string name="_9987456623"> 9987456623</string>
+    <string name="please_enter_otp_sent_to_you">Please Enter OTP sent to you</string>
+    <string name="otp_verification">OTP Verification</string>
+    <string name="didn_t_receive_the_otp">Didn\'t receive the otp?</string>
+    <string name="resend_otp_again">RESEND OTP AGAIN</string>
+    <string name="submit">Submit</string>
+    <string name="_9565879876">9565879876</string>
+    <string name="get_otp">Get Otp</string>
+</resources>
